@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RehanNasir221/static/css/main.66748fb2.css",
-    "main.js": "/RehanNasir221/static/js/main.32a74618.js",
-    "static/js/453.6897e32d.chunk.js": "/RehanNasir221/static/js/453.6897e32d.chunk.js",
-    "index.html": "/RehanNasir221/index.html",
-    "main.66748fb2.css.map": "/RehanNasir221/static/css/main.66748fb2.css.map",
-    "main.32a74618.js.map": "/RehanNasir221/static/js/main.32a74618.js.map",
-    "453.6897e32d.chunk.js.map": "/RehanNasir221/static/js/453.6897e32d.chunk.js.map"
+    "main.css": "/rehannasir2003.github.io/static/css/main.66748fb2.css",
+    "main.js": "/rehannasir2003.github.io/static/js/main.ffcdfc3c.js",
+    "static/js/453.6897e32d.chunk.js": "/rehannasir2003.github.io/static/js/453.6897e32d.chunk.js",
+    "index.html": "/rehannasir2003.github.io/index.html",
+    "main.66748fb2.css.map": "/rehannasir2003.github.io/static/css/main.66748fb2.css.map",
+    "main.ffcdfc3c.js.map": "/rehannasir2003.github.io/static/js/main.ffcdfc3c.js.map",
+    "453.6897e32d.chunk.js.map": "/rehannasir2003.github.io/static/js/453.6897e32d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66748fb2.css",
-    "static/js/main.32a74618.js"
+    "static/js/main.ffcdfc3c.js"
   ]
 }
