@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rehannasir2003.github.io/static/css/main.66748fb2.css",
-    "main.js": "/rehannasir2003.github.io/static/js/main.27c8fb30.js",
+    "main.js": "/rehannasir2003.github.io/static/js/main.58200375.js",
     "static/js/453.6897e32d.chunk.js": "/rehannasir2003.github.io/static/js/453.6897e32d.chunk.js",
     "index.html": "/rehannasir2003.github.io/index.html",
     "main.66748fb2.css.map": "/rehannasir2003.github.io/static/css/main.66748fb2.css.map",
-    "main.27c8fb30.js.map": "/rehannasir2003.github.io/static/js/main.27c8fb30.js.map",
+    "main.58200375.js.map": "/rehannasir2003.github.io/static/js/main.58200375.js.map",
     "453.6897e32d.chunk.js.map": "/rehannasir2003.github.io/static/js/453.6897e32d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66748fb2.css",
-    "static/js/main.27c8fb30.js"
+    "static/js/main.58200375.js"
   ]
 }
