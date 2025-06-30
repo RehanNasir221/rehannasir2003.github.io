@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rehannasir2003.github.io/static/css/main.e2f1bcf6.css",
-    "main.js": "/rehannasir2003.github.io/static/js/main.b7a5b296.js",
+    "main.css": "/rehannasir2003.github.io/static/css/main.99bc9495.css",
+    "main.js": "/rehannasir2003.github.io/static/js/main.2a875bda.js",
     "static/js/453.6897e32d.chunk.js": "/rehannasir2003.github.io/static/js/453.6897e32d.chunk.js",
     "index.html": "/rehannasir2003.github.io/index.html",
-    "main.e2f1bcf6.css.map": "/rehannasir2003.github.io/static/css/main.e2f1bcf6.css.map",
-    "main.b7a5b296.js.map": "/rehannasir2003.github.io/static/js/main.b7a5b296.js.map",
+    "main.99bc9495.css.map": "/rehannasir2003.github.io/static/css/main.99bc9495.css.map",
+    "main.2a875bda.js.map": "/rehannasir2003.github.io/static/js/main.2a875bda.js.map",
     "453.6897e32d.chunk.js.map": "/rehannasir2003.github.io/static/js/453.6897e32d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2f1bcf6.css",
-    "static/js/main.b7a5b296.js"
+    "static/css/main.99bc9495.css",
+    "static/js/main.2a875bda.js"
   ]
 }
